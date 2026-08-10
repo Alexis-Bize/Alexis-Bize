@@ -1,6 +1,6 @@
 # 🧾 About Me
 
-Hey, I'm Alexis, better known as **Zeny** within the Halo community. I'm into reverse engineering, and over the years I've built various internal, and now public, tools tied to the Halo and Xbox communities. Always down to break things and move fast, I enjoy staying versatile across architecture and design.
+Hey, I'm Alexis, better known as **Zeny** within the Halo community. I'm into reverse engineering, and over the years I've built various internal, and now public, tools tied to the Halo and Xbox communities. Always down to break things and move fast, I care about designing systems that scale cleanly: decoupled architectures, sane abstractions, and interfaces that don't fight the people using them.
 
 From time to time I'll share write-ups on my blog (soon): [alexis-bize.io](https://alexis-bize.io).
 
