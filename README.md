@@ -4,10 +4,11 @@ Hey, I'm Alexis, better known as **Zeny** within the Halo community. I'm into re
 
 From time to time I'll share write-ups on my blog (soon): [alexis-bize.io](https://alexis-bize.io).
 
-## 👨‍💻 Projects
+## 👨‍💻 Active Projects
 
 - [**waypoint.gg**](https://waypoint.gg): formerly xboxreplay.net, lets Xbox players connect, join clubs, and pull in their clips & screenshots.
 - **gruntdotapi**: formerly HaloDotAPI, built during my time at Autocode. Now an X community with over 14K followers where I keep sharing Halo news and discoveries.
+- [**xboxlive-auth**](https://github.com/XboxReplay/xboxlive-auth): the most used Xbox Live OAuth module on npm. Feel free to pull the repo for more details.
 - [**InfiniteMITM**](https://github.com/Alexis-Bize/InfiniteMITM): an interactive MITM CLI for Halo Infinite that lets you intercept and modify the game's requests and responses on the fly.
 - [**InfiniteSabotage**](https://github.com/Alexis-Bize/InfiniteSabotage): a Halo Infinite Campaign mod built on a Lua/Parcel scripting system.
 
