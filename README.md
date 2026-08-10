@@ -14,7 +14,7 @@ On the career side: 10+ years at Deezer, a stint at Autocode working on the firs
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Alexis-Bize&theme=radical&langs_count=6)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Alexis-Bize&langs_count=6)
 
 ## 🖥️ Contacts
 
