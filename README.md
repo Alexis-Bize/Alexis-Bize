@@ -22,6 +22,6 @@ On the career side: 10+ years at [Deezer](https://www.deezer.com), a stint at [A
 
 ## 🖥️ Contacts
 
-- X (formerly Twitter): [@zeny_ic](https://x.com/zeny_ic) or [@gruntdotapi](https://x.com/gruntdotapi)
+- X: [@zeny_ic](https://x.com/zeny_ic) or [@gruntdotapi](https://x.com/gruntdotapi)
 - Xbox: [Zeny IC](https://waypoint.gg/players/zeny-ic)
 - Discord: zeny
