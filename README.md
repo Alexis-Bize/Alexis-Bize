@@ -8,8 +8,9 @@ On the career side: 10+ years at [Deezer](https://www.deezer.com), a stint at [A
  
 - [**waypoint.gg**](https://waypoint.gg): formerly xboxreplay.net, lets Xbox players connect, join clubs, and pull in their clips & screenshots.
 - [**gruntdotapi**](https://x.com/gruntdotapi): formerly HaloDotAPI, built during my time at Autocode. Now an X community with over 14K followers where I keep sharing Halo news and discoveries.
-- [**xboxlive-auth**](https://github.com/XboxReplay/xboxlive-auth): the most used Xbox Live OAuth module on npm, a lightweight, zero-dependency Node.js library for Xbox Network authentication.
+- [**xboxlive-auth**](https://github.com/XboxReplay/xboxlive-auth): the most used Xbox Live (XBOX Network) OAuth module on npm, a lightweight, zero-dependency Node.js library for Xbox Network authentication.
 - [**InfiniteMITM**](https://github.com/Alexis-Bize/InfiniteMITM): an interactive MITM CLI for Halo Infinite that lets you intercept and modify the game's requests and responses on the fly.
+- [**InfiniteUGCTool**](https://github.com/Alexis-Bize/InfiniteUGCTool): an interactive CLI to bookmark, clone and manage Halo Infinite UGC files.
 - [**InfiniteSabotage**](https://github.com/Alexis-Bize/InfiniteSabotage): the first Halo Infinite Campaign mod that requires nothing more than a simple text editor.
 
 ## ✍️ Gists
