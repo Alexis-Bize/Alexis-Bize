@@ -2,7 +2,7 @@
 
 Hey, I'm Alexis, better known as **Zeny** within the Halo community. Self-taught developer with a good eye for UI/UX and a soft spot for pixel-perfect details, while keeping architectures modular and ready to scale. I'm also into reverse engineering, and over the years I've built various internal, and now public, tools tied to the Halo and Xbox communities.
  
-On the career side: 10+ years at @Deezer, a stint at Autocode working on the first public Halo Infinite API, and now Senior Software Engineer at Bolero Music.
+On the career side: 10+ years at [@Deezer](https://github.com/Deezer), a stint at [Autocode](https://autocode.com) working on the first public Halo Infinite API, and now Senior Software Engineer at [Bolero Music](https://www.boleromusic.com).
 
 ## 👨‍💻 Active Projects
  
